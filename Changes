@@ -1,6 +1,8 @@
 Revision history for Package-Stash
 
 {{$NEXT}}
+     - avoid new warning in 5.21.x regarding too many arguments for
+       printf/sprintf (Renée Bäcker)
 
 0.37  2014-09-21
       - fix spurious warning in taint mode (Niko Tyni, #12)
