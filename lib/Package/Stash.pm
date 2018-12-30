@@ -228,7 +228,7 @@ L<https://metacpan.org/release/Package-Stash>
 
 =item * Github
 
-L<https://github.com/doy/package-stash>
+L<https://github.com/moose/Package-Stash>
 
 =item * RT: CPAN's request tracker
 
