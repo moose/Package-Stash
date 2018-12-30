@@ -4,6 +4,7 @@ use warnings;
 use 5.008001;
 # ABSTRACT: routines for manipulating stashes
 
+our $VERSION = '0.38';
 our $IMPLEMENTATION;
 
 use Module::Implementation 0.06;
@@ -200,9 +201,6 @@ L<perlref/Making References> point 7 for more information.
 =item * Also, see the BUGS section for the specific backends (L<Package::Stash::XS> and L<Package::Stash::PP>)
 
 =back
-
-Please report any bugs to GitHub Issues at
-L<https://github.com/doy/package-stash/issues>.
 
 =head1 SEE ALSO
 

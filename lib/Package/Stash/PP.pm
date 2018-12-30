@@ -3,6 +3,8 @@ use strict;
 use warnings;
 # ABSTRACT: pure perl implementation of the Package::Stash API
 
+our $VERSION = '0.38';
+
 use B;
 use Carp qw(confess);
 use Scalar::Util qw(blessed reftype weaken);
@@ -434,10 +436,6 @@ tests in t/20-leaks.t) that I'm having a hard time tracking down - these may be
 core perl bugs, it's hard to tell.
 
 =back
-
-Please report any bugs through RT: email
-C<bug-package-stash at rt.cpan.org>, or browse to
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Package-Stash>.
 
 =head1 SEE ALSO
 
