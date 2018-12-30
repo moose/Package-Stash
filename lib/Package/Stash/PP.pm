@@ -495,5 +495,3 @@ remove_glob
 =end Pod::Coverage
 
 =cut
-
-1;

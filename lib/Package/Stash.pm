@@ -246,5 +246,3 @@ Based on code from L<Class::MOP::Package>, by Stevan Little and the Moose
 Cabal.
 
 =cut
-
-1;
