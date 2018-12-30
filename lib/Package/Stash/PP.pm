@@ -449,8 +449,6 @@ This module is a factoring out of code that used to live here
 
 =head1 AUTHOR
 
-Jesse Luehrs <doy at tozt dot net>
-
 Mostly copied from code from L<Class::MOP::Package>, by Stevan Little and the
 Moose Cabal.
 
