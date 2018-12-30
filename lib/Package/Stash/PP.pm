@@ -447,30 +447,6 @@ This module is a factoring out of code that used to live here
 
 =back
 
-=head1 SUPPORT
-
-You can find this documentation for this module with the perldoc command.
-
-    perldoc Package::Stash
-
-You can also look for information at:
-
-=over 4
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/Package-Stash>
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Package-Stash>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/Package-Stash>
-
-=back
-
 =head1 AUTHOR
 
 Jesse Luehrs <doy at tozt dot net>
