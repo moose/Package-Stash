@@ -2,7 +2,7 @@ package Package::Stash;
 use strict;
 use warnings;
 use 5.008001;
-# ABSTRACT: routines for manipulating stashes
+# ABSTRACT: Routines for manipulating stashes
 
 our $VERSION = '0.39';
 our $IMPLEMENTATION;

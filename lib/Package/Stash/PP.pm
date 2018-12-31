@@ -1,7 +1,7 @@
 package Package::Stash::PP;
 use strict;
 use warnings;
-# ABSTRACT: pure perl implementation of the Package::Stash API
+# ABSTRACT: Pure perl implementation of the Package::Stash API
 
 our $VERSION = '0.39';
 
