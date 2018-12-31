@@ -12,7 +12,7 @@ BEGIN {
         && $Package::Stash::IMPLEMENTATION eq 'PP';
 }
 
-use Test::Requires 'Package::Anon';
+use Test::Needs 'Package::Anon';
 use Symbol;
 
 my $anon = Package::Anon->new;
