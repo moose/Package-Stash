@@ -3,7 +3,7 @@ use strict;
 use warnings;
 # ABSTRACT: pure perl implementation of the Package::Stash API
 
-our $VERSION = '0.38';
+our $VERSION = '0.39';
 
 use B;
 use Carp qw(confess);
