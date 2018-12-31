@@ -457,10 +457,6 @@ You can also look for information at:
 
 =over 4
 
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/Package-Stash>
-
 =item * CPAN Ratings
 
 L<http://cpanratings.perl.org/d/Package-Stash>
