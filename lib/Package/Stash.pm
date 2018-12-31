@@ -94,6 +94,8 @@ hash is updated to record the values of C<filename>, C<first_line_num>, and
 C<last_line_num> for the subroutine. If these are not passed, their values are
 inferred (as much as possible) from C<caller> information.
 
+=for stopwords profilers
+
 This is especially useful for debuggers and profilers, which use C<%DB::sub> to
 determine where the source code for a subroutine can be found.  See
 L<http://perldoc.perl.org/perldebguts.html#Debugger-Internals> for more

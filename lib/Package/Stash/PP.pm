@@ -418,6 +418,8 @@ sub get_all_symbols {
 
 =head1 BUGS
 
+=for stopwords TODO
+
 =over 4
 
 =item * remove_symbol also replaces the associated typeglob
