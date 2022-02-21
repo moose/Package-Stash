@@ -4,7 +4,7 @@ use warnings;
 use 5.008001;
 # ABSTRACT: Routines for manipulating stashes
 
-our $VERSION = '0.40';
+our $VERSION = '0.41';
 our $IMPLEMENTATION;
 
 use Module::Implementation 0.06;
