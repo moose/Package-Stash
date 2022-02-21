@@ -1,6 +1,8 @@
 Revision history for Package-Stash
 
 {{$NEXT}}
+     - update bundled version of ExtUtils::HasCompiler, for new new Apple
+       include paths
 
 0.39      2020-11-22 01:26:43Z
      - updated distribution metadata and packaging
